@@ -10,7 +10,7 @@ root.iconbitmap('..\\misc\\tech.ico')
 
 # insert images
 img = ImageTk.PhotoImage(Image.open('..\\misc\\yt.png'))
-img_lbl = Label(image=img, bg='white')
+img_lbl = Label(image=img)
 img_lbl.pack()
 
 # end program - programmatically
