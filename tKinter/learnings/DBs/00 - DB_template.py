@@ -9,7 +9,7 @@ root.iconbitmap('..\\misc\\tech.ico')  # add user defined icon
 root.geometry('400x400')
 
 # database
-conn = sqlite3.connect('../address_book.db')
+conn = sqlite3.connect('address_book.db')
 
 # commit changes to db
 conn.commit()

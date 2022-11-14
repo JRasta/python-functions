@@ -40,7 +40,7 @@ zipcode.grid(row=5, column=1)
 
 def submit():
     # database
-    conn = sqlite3.connect('../address_book.db')
+    conn = sqlite3.connect('address_book.db')
     c = conn.cursor()
 
     # add details to table
@@ -71,7 +71,7 @@ def submit():
 
 def query():
     # database
-    conn = sqlite3.connect('../address_book.db')
+    conn = sqlite3.connect('address_book.db')
     c = conn.cursor()
 
     # query the database
