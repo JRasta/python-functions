@@ -1,0 +1,36 @@
+{
+  "question":
+  [
+    "Q01. In which Italian city can you find the Colosseum?",
+    "Q02. Which one of the following actors did NOT play James Bond?",
+    "Q03. What is the boiling point of water?",
+    "Q04. Which fruit is associated with Isaac Newton?",
+    "Q05. Who is known for their contributions to the science of Evolution?",
+    "Q06. In which city did Diana, Princess of Wales, die?",
+    "Q07. Arnold Schwarzenegger was the governor of which American state?",
+    "Q08. Which actor played Rocky?",
+    "Q09. Which building was NOT attacked on 9/11?",
+    "Q10. Which animal is NOT part of the Chinese zodiac?",
+    "Q11. What is the capital of Australia?"
+  ],
+  "answer":
+  [
+    2, 3, 2, 1, 4,
+    4, 4, 2, 4, 2,
+    3
+  ],
+  "options":
+  [
+    ["Venice","Rome","Naples","Milan"],
+    ["Daniel Craig","Pierce Brosman","Colin Firth","Sean Connery"],
+    ["50°C","100°C","150°C","200°C"],
+    ["Apple","Pear","Pineapple","Banana"],
+    ["Marie Curie","Thomas Edison","Stephen Hawking","Charles Darwin"],
+    ["London","Edinburgh","New York","Paris"],
+    ["Florida","Texas","Montana","California"],
+    ["Tony Burton","Sylvester Stallone","Harrison Ford","Jason Statham"],
+    ["World Trade Center South Tower","World Trade Center North Tower","The Pentagon","Statue of Liberty"],
+    ["Horse","Cat","Dog","Monkey"],
+    ["Sydney","Melbourne","Canberra","Brisbane"]
+  ]
+}
