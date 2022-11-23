@@ -1,7 +1,6 @@
-"""
+"""Title: Simple Quiz
 Author: J. Smith
 Date: 23/11/2022
-Title: Simple Quiz
 Description: A simple quiz gui created from a JSON file
 Inspired by GeeksforGeeks
 """

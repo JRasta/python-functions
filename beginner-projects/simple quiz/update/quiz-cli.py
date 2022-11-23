@@ -1,9 +1,9 @@
-"""
+"""Title: Simple Quiz
 Author: J. Smith
 Date: 28/10/2022
-Title: Simple Quiz
 Description: A simple quiz created from a csv file
 """
+
 
 import time
 import random
