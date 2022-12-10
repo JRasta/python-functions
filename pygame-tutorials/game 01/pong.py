@@ -1,7 +1,7 @@
 """Title: Pong
 Author: J. Smith
 Date: 23/11/2022
-Description: A simple version of pong using pygame
+Description: A simple version of pong using pygame-tutorials
 """
 
 import turtle
