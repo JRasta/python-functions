@@ -1,5 +1,5 @@
 # IDE's project files
-.idea
+.idea/*
 
 # Python Virtual Envirnoment
 venv/
