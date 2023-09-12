@@ -1,3 +1,8 @@
+""" A simple calculator
+Author: FreeCodeAcademy
+Date: 2022
+"""
+
 from tkinter import *
 
 f_num = 0

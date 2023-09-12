@@ -1,5 +1,9 @@
+""" A simple quiz via a GUI
+Author: FreeCodeAcademy
+Date: 2022
+"""
+
 from tkinter import *
-from PIL import ImageTk, Image
 
 # creating a root widget (window)
 root = Tk()

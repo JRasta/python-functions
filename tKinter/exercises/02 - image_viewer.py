@@ -1,3 +1,8 @@
+""" A simple image viewer
+Author: FreeCodeAcademy
+Date: 2022
+"""
+
 from tkinter import *
 from PIL import ImageTk, Image
 
