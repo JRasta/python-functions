@@ -1,10 +1,10 @@
 from tkinter import *
-from PIL import ImageTk, Image
 import sqlite3
 
 # creating a root widget (window)
 root = Tk()
 root.title('DB GUI')
+root.iconbitmap('..\\..\\misc\\tech.ico')  # add user defined icon
 root.geometry('400x400')
 
 # enter DB details

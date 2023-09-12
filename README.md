@@ -18,3 +18,12 @@ Exercises in relation to upskilling Manual QA staff
 
 ## tkinter
 Exercises using tkinter 
+
+## SQL Lite3
+Data types
+
+- Null (value is null)
+- Integer (value is a signed number)
+- Real (value is a floating point number)
+- Text (value is a string)
+- Blob (value is blob of data IE image, video clip) 
