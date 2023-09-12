@@ -1,5 +1,4 @@
 from tkinter import *
-from PIL import ImageTk, Image
 
 # creating a root widget (window)
 root = Tk()
