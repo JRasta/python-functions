@@ -41,6 +41,8 @@ zipcode.grid(row=5, column=1)
 def submit():
     # database
     conn = sqlite3.connect('address_book.db')
+
+    # create cursor
     c = conn.cursor()
 
     # add details to table
@@ -81,10 +83,15 @@ def query():
     # loop the results
     print_records = ''
     for record in records:
-        print_records += str(record[0]) + ' ' + str(record[1]) + '\n'
+        print_records = f'First name: {record[0]} \n' \
+                        f'Last name: {record[1]} \n' \
+                        f'Address: {record[2]} \n' \
+                        f'City: {record[3]} \n' \
+                        f'State: {record[4]} \n' \
+                        f'Zip Code: {record[5]}'
 
     qry_lbl = Label(root, text=print_records)
-    qry_lbl.grid(row=8, column=0, columnspan=2)
+    qry_lbl.grid(row=8, column=0, columnspan=2, sticky='w')
 
     # commit changes to db
     conn.commit()
