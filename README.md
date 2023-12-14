@@ -7,14 +7,21 @@ Small Python Programs
 - Quiz in GUI (Tkinter) format
     - Uses a json file for information input
 - Game: Rock, Paper, Scissors in CLI format
+- Game: PIG
+- MadLib Generator using JSON entries
+- Maths Challenge
+- Percentage Calculator
 
 ## Manual QA Training
 Exercises in relation to upskilling Manual QA staff
 
 ## Skill Development
 - Edabit
-- Project Euler
+- hacker-rank
+- OOP
 - Practice Python
+- Project Euler
+- Python Principles
 
 ## tkinter
 Exercises using tkinter 
