@@ -6,6 +6,7 @@ Without using any string methods, try to print the following:
 Note that "..." represents the consecutive values in between.
 """
 
+# Main method
 if __name__ == '__main__':
     n = int(input())
     lst = []

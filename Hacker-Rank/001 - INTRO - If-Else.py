@@ -6,8 +6,8 @@ If  is even and in the inclusive range of  to , print Not Weird
 If  is even and in the inclusive range of  to , print Weird
 If  is even and greater than , print Not Weird
 """
-# !/bin/python3
 
+# Main method
 if __name__ == '__main__':
     n = int(input().strip())
 
