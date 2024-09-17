@@ -8,11 +8,7 @@ c = conn.cursor()
 
 # Create a table
 # DOC string  RECOMMENDED!!
-c.execute("""CREATE TABLE customers (
-    first_name TEXT,
-    last_name TEXT,
-    email_address TEXT
-    )""")
+c.execute("""CREATE TABLE customers (first_name TEXT, last_name TEXT, email_address TEXT)""")
 
 # Commit our command
 conn.commit()
